@@ -1,0 +1,14 @@
+[project]
+name = "notebook-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "nbclient>=0.10.2",
+    "nbformat>=5.10.4",
+    "smolagents>=1.14.0",
+    "smolagents[openai]>=1.14.0",
+    "streamlit>=1.44.1",
+]
