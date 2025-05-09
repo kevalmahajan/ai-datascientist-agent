@@ -2,6 +2,7 @@
 
 **AutoPilot DS** is an intelligent AI agent designed to automate your entire data science workflow directly within a Jupyter Notebook. Just tell it what you want to accomplish in natural language — whether it's data analysis, model building, or running a full experiment — and it takes care of the rest.
 
+For detailed explanation: [Check this out](https://www.youtube.com/watch?v=3t7bkWXEFhI)
 ---
 
 ## 🚀 Key Features
