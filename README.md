@@ -66,7 +66,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-notebook-agent.git
+git clone [https://github.com/your-username/ai-notebook-agent.git](https://github.com/kevalmahajan/ai-datascientist-agent)
 cd ai-notebook-agent
 ````
 
