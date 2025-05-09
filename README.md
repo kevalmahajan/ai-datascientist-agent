@@ -57,7 +57,7 @@ For detailed explanation: [Check this out](https://www.youtube.com/watch?v=3t7bk
 - `tools/`: Contains tools to control python notebook utilized by the AI agent.
 - `nb_agent_backend.py`: This file is the backend for our notebook AI agent.
 - `nb_agent_ui.py`: This file is the streamlit UI for our notebook AI agent.
-- `prompt/`: Contains the prompt templates for the AI agents.
+- `prompts/`: Contains the prompt templates for the AI agents.
 - `tested_notebooks/`: Contains sample notebooks that I have tested, fully created and executed by the AI agent.
 
 ---
